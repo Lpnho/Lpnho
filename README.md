@@ -7,6 +7,6 @@ Comecei com programação WEB front-end, a tríade clássica e, embora eu não t
 Atualmente estou cursando engenharia de computação e muito disso eu devo graças a meu interesse por hardware e software.  
 
 ## Tecnologias que  estou Estudando no momento: JavaScript, MySQL, Git;
-## Gostaria de Estudar: C com GTK, C++ com QT, Java (me introduzir neste mundo), treads, e Sockets;
+## Gostaria de Estudar: C com GTK, C++ com QT, Java (me introduzir neste mundo), Threads, e Sockets;
 ## O que sei: HEHEHE...
 Tenho conhecimentos básicos GNU/linux, C, C++, javascript, git, html, css;
