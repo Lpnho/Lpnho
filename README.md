@@ -6,7 +6,5 @@ Sou  viciadooh em aprender de tudo um pouco... Amo programar em C/C++ e GOSTARII
 Comecei com programação WEB front-end, a tríade clássica e, embora eu não tenha domínio sobre ela, tenho prazer em fazer meus pequenos trabalhos nessa área.
 Atualmente estou cursando engenharia de computação e muito disso eu devo graças a meu interesse por hardware e software.  
 
-## Tecnologias que  estou Estudando no momento: JavaScript, MySQL, Git;
-## Gostaria de Estudar: C com GTK, C++ com QT, Java (me introduzir neste mundo), Threads, e Sockets;
 ## O que sei: HEHEHE...
 Tenho conhecimentos básicos GNU/linux, C, C++, javascript, git, html, css;
