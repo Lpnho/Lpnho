@@ -7,4 +7,4 @@ Comecei com programação WEB front-end, a tríade clássica e, embora eu não t
 Atualmente estou cursando engenharia de computação e muito disso eu devo graças a meu interesse por hardware e software.  
 
 ## O que sei: HEHEHE...
-Tenho conhecimentos básicos GNU/linux, C, C++, javascript, git, html, css;
+Tenho conhecimentos básicos GNU/linux, C, C++, C#, javascript, git, html, css, Flutter, React e Typescript;
