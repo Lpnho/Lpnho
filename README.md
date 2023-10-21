@@ -28,7 +28,7 @@ Aqui está um resumo das minhas habilidades e conhecimentos:
 ## Meus trabalhos
 
 - 👨‍💻 Participei do desenvolvimento do [Portal de Turismo de Itabira](https://turismo.itabira.mg.gov.br/) por meio do projeto CIT Inova, proporcionando aos visitantes uma experiência única para explorar a cidade.
-- 🤖 Faço parte da equipe de robótica Drumonsters, onde aplico meu conhecimento no setor de programação em emocionantes projetos robóticos.
+- 🤖 Faço parte da equipe de robótica Drumonsters, onde aplico meu conhecimento no setor de programação para o futebol de robos autônomos.
 
 ## Vamos Conectar
 
