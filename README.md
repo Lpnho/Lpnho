@@ -19,11 +19,16 @@ Minha paixão por hardware e software me levou a escolher Engenharia de Computa�
 
 Aqui está um resumo das minhas habilidades e conhecimentos:
 
-- 💻 Linguagens de Programação: C, C++, C#, JavaScript, TypeScript, Rust, Python.
+- 💻 Linguagens de Programação: C, C++, C#, JavaScript, TypeScript, Rust e Python.
 - 🌐 Desenvolvimento Web: HTML, CSS, React, .Net Blazor.
 - 📱 Desenvolvimento Móvel: Flutter e .Net MAUI.
 - 🐧 Conhecimentos Básicos em GNU/Linux e Windows .
 - 🐙 Controle de Versão: Git.
+
+## Meus trabalhos
+
+- 👨‍💻 Participei do desenvolvimento do [Portal de Turismo de Itabira](https://turismo.itabira.mg.gov.br/) por meio do projeto CIT Inova, proporcionando aos visitantes uma experiência única para explorar a cidade.
+- 🤖 Faço parte da equipe de robótica Drumonsters, onde aplico meu conhecimento no setor de programação em emocionantes projetos robóticos.
 
 ## Vamos Conectar
 
