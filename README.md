@@ -21,7 +21,7 @@ Aqui está um resumo das minhas habilidades e conhecimentos:
 
 - 💻 Linguagens de Programação: C, C++, C#, JavaScript, TypeScript, Dart, Rust e Python.
 - 🌐 Desenvolvimento Web: HTML, CSS, React, .Net Blazor.
-- 📱 Desenvolvimento Móvel: Flutter e .Net MAUI.
+- 📱 Desenvolvimento Móvel: Flutter.
 - 🐧 Conhecimentos Básicos em GNU/Linux e Windows .
 - 🐙 Controle de Versão: Git.
 
